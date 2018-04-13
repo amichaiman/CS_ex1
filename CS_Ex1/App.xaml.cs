@@ -13,5 +13,6 @@ namespace CS_Ex1
     /// </summary>
     public partial class App : Application
     {
+
     }
 }
