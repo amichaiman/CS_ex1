@@ -27,7 +27,6 @@ namespace CS_Ex1
 
         public MainWindow()
         {
-            int a;
         }
 
         
